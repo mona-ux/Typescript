@@ -2,7 +2,7 @@
 let name: string = "Mona";
 let age: number = 30;
 let isEmployed: boolean = true;
-let hobbies: string[] = ["Money", "Books", "Traveling"];
+let hobbies: string[] = ["Singing", "Books", "Traveling"];
 let personInfo: [string, number] = ["Mona", 30];  // Tuple
 
 //   Interface for Person
